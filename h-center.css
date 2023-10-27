@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+
+    background-image: url("https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_1600/1432fedb88c0d1cc56f4c496a80f251c.jpg");
+
+    background-size: cover;
+
+    padding: 30px;
+}
+
+
+.back {
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+.back1 {
+
+    margin-bottom: 60px;
+}
+
+.card-container {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.main-heading {
+    color: green;
+    font-size: 70px;
+    font-family: "Caveat";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.para {
+    font-size: 60;
+    color: black;
+    padding: 5px;
+}
+
+.main-button {
+    color: white;
+    height: 36px;
+    width: 138px;
+    background-color: #121078;
+    border-radius: 25px;
+    border-width: 3px;
+    padding: 5px;
+}
+
+.background {
+    background-image: url('https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2023/02/Tallest-buildings-in-Bangalore.jpg?fit=1000%2C563&ssl=1');
+
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.sub-head {
+    color: #505250;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.descr {
+    font-family: 'Roboto';
+    font-size: 13px;
+    color: #1c211c;
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+}
+
+.card-con {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-heading1 {
+    color: black;
+    font-size: 23px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 3px;
+}
+
+.detailed-view-bg-container {
+    background-image: url('https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.webp?b=1&s=170667a&w=0&k=20&c=qxO3Yl7LBs5jewoI5eAWsLrVtEw0QyH4RdKwyZrALCg=');
+    background-size: cover;
+}
+
+.detail-view-card {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 15px;
+}
+
+.detail-para {
+    font-family: 'Roboto';
+    font-size: 13px;
+    padding: 16px;
+}
