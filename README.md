@@ -1,4 +1,3 @@
-<img width="960" alt="image" src="https://github.com/DheerajReddyB/Bangalore-Tour-Guide-Website/assets/145667578/1b1922b8-13b0-432d-928f-41cd4a996466"># Bangalore-Tour-Guide-Website
 Welcome to the Bangalore Tour Guide Website! For the first time visitors of Bangalore and want to explore more of Bangalore its a right place for great recommendations.
 
 Welcome to the Bangalore Tour Guide Website! This project is a simple, yet informative, website built using HTML and CSS to provide visitors with essential information and recommendations for exploring the vibrant city of Bangalore, India. Whether you're a tourist or a local looking for new places to visit, this website offers a comprehensive guide to help you make the most of your time in this bustling metropolis.
